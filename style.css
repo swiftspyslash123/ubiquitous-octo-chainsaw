@@ -1,0 +1,50 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_maindiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+img {
+    height: 600px;
+    width: 1200px;
+    text-align: center;
+    padding-left: 320;
+    padding-right: 20;
+}
+
+p {
+    color: aliceblue;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+h4 {
+    color: dodgerblue;
+}
+
+h3 {
+    color: dodgerblue;
+}
